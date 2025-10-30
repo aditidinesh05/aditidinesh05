@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditidinesh05&label=Profile%20views&color=0e75b6&style=flat" alt="aditidinesh05" /> </p>
 
 - 🌱 I’m currently learning **<br>
-          •Full Stack Web Development<br>
-          •Advanced SQL & PL/SQL<br>
-          •DSA in Java and python<br>
-          •App building in flutter</br>**
+              »Full Stack Web Development<br>
+              »Advanced SQL & PL/SQL<br>
+              »DSA in Java and python<br>
+              »App building in flutter</br>**
 
 - 👯 I’m looking to collaborate on **Web development and Data Science projects**
 
